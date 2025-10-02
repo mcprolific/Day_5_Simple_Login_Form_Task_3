@@ -16,4 +16,4 @@ If the username is `"admin"` and the password is `"1234"`, show `"Admin login su
 
 ## Console Output
 
-![Day 5: Simple Login Form Task 3:](https://github.com/user-attachments/assets/33f798d7-c052-4633-9f39-75bbdafa22b8")
+![Day 5: Simple Login Form Task 3:](https://github.com/user-attachments/assets/33f798d7-c052-4633-9f39-75bbdafa22b8)
